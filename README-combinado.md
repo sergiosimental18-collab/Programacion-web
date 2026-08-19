@@ -1,0 +1,43 @@
+# 📘 Programación Web
+
+![Logo DASC](https://uabcs.online/storage/cropped-logo-dasc.png)
+
+Este repositorio contiene los ejercicios y trabajos realizados durante la materia de **Programación Web**, del programa de Ingeniería en Desarrollo de Software (DASC). El contenido se irá actualizando conforme se suban nuevos ejercicios trabajados en clase.
+
+## 👤 Descripción del estudiante
+
+- **Nombre:** Sergio Simental Rodriguez
+- **Edad:** 20 años
+- **Carrera:** Ingeniero en Desarrollo de Software
+- **Turno:** Matutino
+- **Semestre:** 5to semestre
+
+## 🛠️ Herramientas y lenguajes utilizados
+
+- HTML5
+- CSS3
+- Markdown
+- Git y GitHub
+
+## 📂 Lista de trabajos (unidades / temas)
+
+### Unidad 1: Fundamentos de la Web
+
+1. Ejercicio 1: ¿Cómo se inventó el internet?
+2. Ejercicio 2: ¿Qué es el internet?
+3. Ejercicio 3: Markdown
+
+## 🔗 Enlace útil
+
+Para probar y previsualizar Markdown en tiempo real, se recomienda usar la siguiente herramienta: [Markdown Live Preview](https://markdownlivepreview.com/)
+
+## 📊 Tabla de ejercicios
+
+| # | Unidad  | Ejercicio  | Lenguaje / Formato | Estado    |
+|---|---------|------------|---------------------|-----------|
+| 1 | Primera | Ejercicio1 | Cuestionario        | Terminado |
+| 2 | Primera | Ejercicio2 | Cuestionario        | Terminado |
+| 3 | Primera | Ejercicio3 | Markdown            | Terminado |
+
+
+*Este README es una plantilla en construcción: se irá modificando y ampliando conforme avance el curso y se suban nuevos ejercicios al repositorio.*
